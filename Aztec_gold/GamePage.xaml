@@ -1,0 +1,13 @@
+﻿<SwapChainBackgroundPanel
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Aztec_gold"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:WindowsPhone81="using:Microsoft.AdMediator.WindowsPhone81"
+    x:Class="Aztec_gold.GamePage"
+    mc:Ignorable="d" >
+
+    <Grid/>
+    <WindowsPhone81:AdMediatorControl x:Name="AdMediator_A76835" HorizontalAlignment="Left" Height="67" Id="AdMediator-Id-D4F7AF5B-0B39-4AC6-8EE4-8E3BF016D373" Margin="0,438,0,0" VerticalAlignment="Top" Width="400"/>
+</SwapChainBackgroundPanel>

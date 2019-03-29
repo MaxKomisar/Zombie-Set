@@ -1,0 +1,4 @@
+MainPackage=C:\Development\Projects\Game Dev\Games C#\Aztec gold\Aztec_gold\Aztec_gold\bin\Release\Aztec_gold_1.1.0.6_Bundle\Aztec_gold_1.1.0.6_AnyCPU.appx
+SymbolPackage=C:\Development\Projects\Game Dev\Games C#\Aztec gold\Aztec_gold\Aztec_gold\AppPackages\Aztec_gold_1.1.0.6_Test\Aztec_gold_1.1.0.6_AnyCPU.appxsym
+ResourcePack=C:\Development\Projects\Game Dev\Games C#\Aztec gold\Aztec_gold\Aztec_gold\bin\Release\Aztec_gold_1.1.0.6_Bundle\Aztec_gold_1.1.0.6_scale-100.appx
+ResourcePack=C:\Development\Projects\Game Dev\Games C#\Aztec gold\Aztec_gold\Aztec_gold\bin\Release\Aztec_gold_1.1.0.6_Bundle\Aztec_gold_1.1.0.6_scale-140.appx
