@@ -25,3 +25,8 @@ Game for windows platforms 3 in row
 5. There are three types of game levels and two modes of survival.
 6. Twenty-four levels redeem you in blood.
 
+![alt text](https://github.com/MaxKomisar/Zombie-Set/blob/master/screenshots/1.png)
+![alt text](https://github.com/MaxKomisar/Zombie-Set/blob/master/screenshots/2.png)
+![alt text](https://github.com/MaxKomisar/Zombie-Set/blob/master/screenshots/3.png)
+![alt text](https://github.com/MaxKomisar/Zombie-Set/blob/master/screenshots/4.png)
+![alt text](https://github.com/MaxKomisar/Zombie-Set/blob/master/screenshots/5.png)
